@@ -5,7 +5,7 @@ This project predicts whether an online shopper will complete a purchase using c
 
 ## Dataset
 - Online Shoppers Purchasing Intention Dataset
-- Features include browsing behaviour, session duration, bounce rates, and traffic type.
+- Features include browsing behaviour, page values, bounce rates, and traffic type.
 
 ## Methodology
 - Data Cleaning & preprocessing
@@ -25,3 +25,8 @@ This project predicts whether an online shopper will complete a purchase using c
 
 ## Outcome
 The best-performing model was selected based on evaluation metrics and insights were drawn from customer behaviour patterns.
+
+## Results & Key Insights
+- Random Forest achieved the best overall performance among the models tested.
+- User behaviour features such as BounceRates, ProductRelated, and PageValues showed strong relationships with purchase intention.
+- Evaluation metrics showed clear differences between classification models.
