@@ -1,7 +1,7 @@
 # Online Shoppers Purchase Intention Prediction
 
 ## Project Overview
-This project predicts whether an online shopper will complere a purchase using classification models.
+This project predicts whether an online shopper will complete a purchase using classification models.
 
 ## Dataset
 - Online Shoppers Purchasing Intention Dataset
