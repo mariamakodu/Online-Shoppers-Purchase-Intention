@@ -29,4 +29,4 @@ The best-performing model was selected based on evaluation metrics and insights 
 ## Results & Key Insights
 - Random Forest achieved the best overall performance among the models tested.
 - User behaviour features such as BounceRates, ProductRelated, and PageValues showed strong relationships with purchase intention.
-- Evaluation metrics showed clear differences between classification models.
+- High BounceRates and ExitRates negatively impacted conversion
